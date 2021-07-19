@@ -13,8 +13,8 @@ Big Sleep is originally a concept of turning text into imagery by using [CLIP](h
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/BigSleep_crowsonkb.ipynb)
 
-![image](https://user-images.githubusercontent.com/50331907/126217488-34d5497d-8052-426b-b6f7-8e4514e1bd21.png)<br>
-_Secrets of the occult_ at 300 iterations
+![image](https://user-images.githubusercontent.com/50331907/126226554-f53ae66d-21d9-428f-9c16-0a17bf8c0ef9.png)<br>
+_Satanism in the 1900s_ at 400 iterations
 
 ---
 
@@ -23,5 +23,5 @@ _Secrets of the occult_ at 300 iterations
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/BigSleep_lucidrains.ipynb)
 
-![image](https://user-images.githubusercontent.com/50331907/126217548-567c40ab-5892-4a27-a9b4-77faa329b454.png)<br>
-_Secrets of the occult_ at 300 iterations
+![image](https://user-images.githubusercontent.com/50331907/126226982-815e6fa6-6d5b-4d99-b1b1-902261a88212.png)<br>
+_Satanism in the 1900s_ at 400 iterations
