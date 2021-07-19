@@ -6,8 +6,6 @@ The notebooks produce very different results. VQGAN+CLIP notebook is able to pro
 
 Big Sleep is originally a concept of turning text into imagery by using [CLIP](https://github.com/openai/CLIP) by OpenAI to steer [BigGAN](https://arxiv.org/abs/1809.11096) by Andrew Brock et al., as introduced by [Ryan Murdock](https://github.com/rynmurdock) in his [original notebook](https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing). 
 
-Example images below were generated using the same string of text.
-
 ---
 
 **Colab for:** VQGAN+CLIP by [Katherine Crowson](https://github.com/crowsonkb)<br>
