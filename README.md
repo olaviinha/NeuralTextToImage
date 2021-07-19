@@ -13,11 +13,11 @@ Example images below were generated using the same string of text.
 **Colab for:** VQGAN+CLIP by [Katherine Crowson](https://github.com/crowsonkb)<br>
 **Papers:** VQGAN by Patrick Esser et al: https://arxiv.org/abs/2012.09841, CLIP by OpenAI: https://arxiv.org/abs/2103.00020
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/BigSleep_crowsonkb.ipynb)
 
 ---
 
 **Colab for:** [Big Sleep (BigGAN+CLIP)](https://github.com/lucidrains/big-sleep) by [Phil Wang](https://github.com/lucidrains) (more precisely [this fork](https://github.com/olaviinha/big-sleep))<br>
 **Papers:** BigGAN by Andrew Brock et al: https://arxiv.org/abs/1809.11096, CLIP by OpenAI: https://arxiv.org/abs/2103.00020
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/BigSleep_lucidrains.ipynb)
