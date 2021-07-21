@@ -14,7 +14,7 @@ The notebooks produce very different results. VQGAN+CLIP notebook is able to pro
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/BigSleep_crowsonkb.ipynb)
 
 ![image](https://user-images.githubusercontent.com/50331907/126226554-f53ae66d-21d9-428f-9c16-0a17bf8c0ef9.png)<br>
-_Satanism in the 1900s_ at 400 iterations
+400 iterations of _"Satanism in the 1900s"_.
 
 ---
 
@@ -26,4 +26,4 @@ This notebook is using the original Big Sleep technique.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/BigSleep_lucidrains.ipynb)
 
 ![image](https://user-images.githubusercontent.com/50331907/126226982-815e6fa6-6d5b-4d99-b1b1-902261a88212.png)<br>
-_Satanism in the 1900s_ at 400 iterations
+400 iterations of _"Satanism in the 1900s"_.
