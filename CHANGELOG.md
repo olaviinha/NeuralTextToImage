@@ -1,3 +1,7 @@
+# 2021-07-21
+### Both notebooks
+- Remove all already generated data of current execution from Drive (subdir _output_dir/id_WhatEverText_) on manual interruption (stop button or keyboardInterrupt)
+---
 # 2021-07-20
 ### Both notebooks
 - Bugfix regarding lack or change of `output_dir`
