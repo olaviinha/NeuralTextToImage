@@ -1,3 +1,9 @@
+# 2021-07-26
+- Third notebook (Latent Vision).
+- Some more hidden settings. Uncomment (cmd/ctrl+u) the `Very advanced settings` blocks in _Sleep_ cell to access.
+- `repetition` = repeat the process for the same text for n times.
+- Some minor improvements.
+
 # 2021-07-21
 ### Both notebooks
 - Remove all already generated data of current execution from Drive (subdir _output_dir/id_WhatEverText_) on manual interruption (stop button or keyboardInterrupt)
