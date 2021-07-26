@@ -1,4 +1,4 @@
-# Neural text-to-image
+# Big Sleep colabs (neural text-to-image)
 
 User-friendly Colab notebooks for Big Sleep and its offsprings. All notebooks are fully functional in Google Colab as of Jul 2021.
 
