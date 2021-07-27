@@ -21,7 +21,7 @@ The point of these notebooks has been a user-friendly and quick-to-run UI, but s
 **Colab for:** Latent Vision by [Ryan Murdock](https://github.com/rynmurdock)<br>
 **Papers:** 1) [VQGAN by Patrick Esser et al](https://arxiv.org/abs/2012.09841), 2) [CLIP by OpenAI](https://arxiv.org/abs/2103.00020)
 
-Results of this notebook is pretty much something between the original Big Sleep (below) and CLIP+VQGAN (above).
+Results of this notebook are pretty much something between the original Big Sleep (below) and CLIP+VQGAN (above).
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/LatentVision_rynmurdock.ipynb)
 
