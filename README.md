@@ -33,7 +33,7 @@ Results of this notebook is pretty much something between the original Big Sleep
 **Colab for:** [Big Sleep (CLIP+BigGAN)](https://github.com/lucidrains/big-sleep) by [Phil Wang](https://github.com/lucidrains) (more precisely [this fork](https://github.com/olaviinha/big-sleep))<br>
 **Papers:** 1) [BigGAN by Andrew Brock et al](https://arxiv.org/abs/1809.11096), 2) [CLIP by OpenAI](https://arxiv.org/abs/2103.00020)
 
-This notebook is follows the original Big Sleep technique.
+This notebook follows the original Big Sleep technique.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/BigSleep_lucidrains.ipynb)
 
