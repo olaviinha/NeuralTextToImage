@@ -3,6 +3,7 @@
 - Some more hidden settings. Uncomment (cmd/ctrl+u) the `Very advanced settings` blocks in _Sleep_ cell to access.
 - `repetition` = repeat the process for the same text for n times.
 - Some minor improvements.
+- Ability to batch process by entering a file path to a line-break separated txt-file in the `generate_image_of` field (untested)
 
 # 2021-07-21
 ### Both notebooks
