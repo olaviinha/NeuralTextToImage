@@ -1,5 +1,10 @@
+# 2021-07-28
+### All notebooks
+- If `generate_image_of` value missing, use a random headline from awarenessact.com
+
 # 2021-07-26
 - Third notebook (Latent Vision).
+### All notebooks
 - Some more hidden settings. Uncomment (cmd/ctrl+u) the `Very advanced settings` blocks in _Sleep_ cell to access.
 - `repetition` = repeat the process for the same text for n times.
 - Some minor improvements.
