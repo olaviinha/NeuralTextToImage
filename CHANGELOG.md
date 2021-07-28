@@ -1,6 +1,6 @@
 # 2021-07-28
 ### All notebooks
-- If `generate_image_of` value missing, use a [random headline](https://api.inha.asia/aact/) from awarenessact.com
+- If `generate_image_of` value missing, use a [random headline](https://api.inha.asia/headline/) from a set of sketchy blogs.
 
 # 2021-07-26
 - Third notebook (Latent Vision).
