@@ -11,7 +11,7 @@ The point of these notebooks has been a user-friendly and quick-to-run UI, but s
 **Colab for:** CLIP+VQGAN by [Katherine Crowson](https://github.com/crowsonkb)<br>
 **Papers:** 1) [VQGAN by Patrick Esser et al](https://arxiv.org/abs/2012.09841), 2) [CLIP by OpenAI](https://arxiv.org/abs/2103.00020)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/CLIP%2BVQGAN_crowsonkb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/CLIP%2BVQGAN_crowsonkb.ipynb)
 
 ![image](https://user-images.githubusercontent.com/50331907/126226554-f53ae66d-21d9-428f-9c16-0a17bf8c0ef9.png)<br>
 400 iterations of _"Satanism in the 1900s"_.
@@ -23,7 +23,7 @@ The point of these notebooks has been a user-friendly and quick-to-run UI, but s
 
 Results of this notebook are pretty much something between the original Big Sleep (below) and CLIP+VQGAN (above).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/LatentVision_rynmurdock.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/LatentVision_rynmurdock.ipynb)
 
 ![image](https://user-images.githubusercontent.com/50331907/126967558-b68857b7-0792-4135-b535-687539a3d240.png)<br>
 400 iterations of _"Satanism in the 1900s"_.
@@ -35,7 +35,7 @@ Results of this notebook are pretty much something between the original Big Slee
 
 This notebook follows the original Big Sleep technique.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/BigSleep_lucidrains.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/BigSleep_lucidrains.ipynb)
 
 ![image](https://user-images.githubusercontent.com/50331907/126226982-815e6fa6-6d5b-4d99-b1b1-902261a88212.png)<br>
 400 iterations of _"Satanism in the 1900s"_.
