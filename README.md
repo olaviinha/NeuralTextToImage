@@ -4,7 +4,20 @@ User-friendly Colab notebooks for Big Sleep and its siblings and offsprings. All
 
 Big Sleep is originally a concept of turning text into imagery by using [CLIP](https://github.com/openai/CLIP) (OpenAI) to steer [BigGAN](https://arxiv.org/abs/1809.11096) (Andrew Brock et al.), as introduced by [Ryan Murdock](https://github.com/rynmurdock) in his [original notebook](https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing). The technique has since evolved.
 
-The point of these notebooks has been a user-friendly and quick-to-run UI, but some basic features have also been added, such as saving selected progression images and progression video. All notebooks produce very different results. CLIP+VQGAN notebook (on top) is able to produce the largest images. 
+The point of these notebooks has been a user-friendly and quick-to-run UI, but some basic features have also been added, such as saving selected progression images and progression video. All notebooks produce very different results. CLIP+VQGAN notebook is able to produce the largest images. 
+
+---
+
+**Colab for:** JAX CLIP Guided Diffusion by [nshepperd](https://github.com/nshepperd)<br>
+CLIP Guided Diffusion originally by [Katherine Crowson](https://github.com/crowsonkb)<br>
+
+This notebook does not save all progression images or video.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/JAX_CLIP_Guided_diffusion_nshepperd.ipynb)
+
+![image](https://user-images.githubusercontent.com/50331907/144711796-3933dbb1-d8a0-4656-812f-050ccb444118.png)
+<br>
+300 iterations of _"Satanism in the 1900s"_.
 
 ---
 
