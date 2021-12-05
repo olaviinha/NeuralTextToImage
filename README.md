@@ -6,7 +6,7 @@ Big Sleep is originally a concept of turning text into imagery by using [CLIP](h
 
 The point of these notebooks has been a user-friendly and quick-to-run UI, but some additional features have also been added, such as saving all/selected progression images and progression video. All notebooks produce very different results. CLIP+VQGAN notebook is able to produce the largest images.
 
-I do not use these notebooks on a regular basis, so please do raise an issue should any problems occur.
+I do not use all of these notebooks on a regular basis, so please do raise an issue should any problems occur.
 
 ---
 
