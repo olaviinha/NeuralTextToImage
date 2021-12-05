@@ -4,7 +4,9 @@ User-friendly Colab notebooks for Big Sleep, its siblings and offsprings. All no
 
 Big Sleep is originally a concept of turning text into imagery by using [CLIP](https://github.com/openai/CLIP) (OpenAI) to steer [BigGAN](https://arxiv.org/abs/1809.11096) (Andrew Brock et al.), as introduced by [Ryan Murdock](https://github.com/rynmurdock) in his [original notebook](https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing). The technique has since evolved.
 
-The point of these notebooks has been a user-friendly and quick-to-run UI, but some additional features have also been added, such as saving all/selected progression images and progression video. All notebooks produce very different results. CLIP+VQGAN notebook is able to produce the largest images. 
+The point of these notebooks has been a user-friendly and quick-to-run UI, but some additional features have also been added, such as saving all/selected progression images and progression video. All notebooks produce very different results. CLIP+VQGAN notebook is able to produce the largest images.
+
+I do not use these notebooks on a regular basis, so please do raise an issue should any problems occur.
 
 ---
 
