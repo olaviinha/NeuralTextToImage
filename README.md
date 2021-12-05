@@ -9,7 +9,7 @@ The point of these notebooks has been a user-friendly and quick-to-run UI, but s
 ---
 
 **Colab for:** JAX CLIP Guided Diffusion by [nshepperd](https://github.com/nshepperd)<br>
-CLIP Guided Diffusion originally by [Katherine Crowson](https://github.com/crowsonkb)<br>
+Method originally by [Katherine Crowson](https://github.com/crowsonkb)<br>
 
 This notebook does not save all progression images or video.
 
