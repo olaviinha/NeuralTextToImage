@@ -16,7 +16,7 @@ I do not use all of these notebooks on a regular basis, so please do raise an is
 
 ![image](https://user-images.githubusercontent.com/50331907/159492943-572f7a52-83a9-4310-befb-ceb8473af77d.png)
 <br>
-_"Satanism in the 1990s"_
+_"Satanism in the 1900s"_
 
 ---
 
