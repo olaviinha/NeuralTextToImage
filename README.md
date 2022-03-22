@@ -10,6 +10,16 @@ I do not use all of these notebooks on a regular basis, so please do raise an is
 
 ---
 
+**Colab for:** ruDALLE by [Sberbank-AI](https://github.com/sberbank-ai)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/ruDalle.ipynb)
+
+![image](https://user-images.githubusercontent.com/50331907/159492943-572f7a52-83a9-4310-befb-ceb8473af77d.png)
+<br>
+_"Satanism in the 1990s"_
+
+---
+
 **Colab for:** JAX CLIP Guided Diffusion by [nshepperd](https://github.com/nshepperd)<br>
 Method originally by [Katherine Crowson](https://github.com/crowsonkb)<br>
 
