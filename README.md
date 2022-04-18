@@ -10,6 +10,16 @@ I do not use all of these notebooks on a regular basis, and hence I'm mostly una
 
 ---
 
+**Colab for:** Latent Diffusion LAION 400M
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/LAION_400M.ipynb)
+
+![image](https://user-images.githubusercontent.com/50331907/163890889-a31370e6-e08d-4389-86af-947fe70a7140.png)
+
+_"Satanism in the 1900s"_ (upscaled)
+
+---
+
 **Colab for:** ruDALLE by [Sberbank-AI](https://github.com/sberbank-ai)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/ruDalle.ipynb)
