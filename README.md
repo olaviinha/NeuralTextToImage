@@ -1,10 +1,10 @@
-# Big Sleep colabs (neural text-to-image)
+# Neural text-to-image (Big Sleep etc.)
 
-User-friendly Colab notebooks for Big Sleep, its siblings and offsprings. All notebooks are fully functional in Google Colab as of Jul 2021.
+User-friendly Colab notebooks for Big Sleep, its siblings and offsprings.
 
-Big Sleep is originally a concept of turning text into imagery by using [CLIP](https://github.com/openai/CLIP) (OpenAI) to steer [BigGAN](https://arxiv.org/abs/1809.11096) (Andrew Brock et al.), as introduced by [Ryan Murdock](https://github.com/rynmurdock) in his [original notebook](https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing). The technique has since evolved.
+Big Sleep is originally a concept of turning text into imagery by using [CLIP](https://github.com/openai/CLIP) (OpenAI) to steer [BigGAN](https://arxiv.org/abs/1809.11096) (Andrew Brock et al.), as introduced by [Ryan Murdock](https://github.com/rynmurdock) in his [original notebook](https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing). The technique has since branched and evolved.
 
-There are countless versions of these notebooks out there, and the point of these notebooks has been a user-friendly and quick-to-run UI of the _core_ notebooks. Some additional basic features have also been added to some notebooks, such as saving all/selected progression images and progression video. All notebooks produce very different results. CLIP+VQGAN notebook is able to produce the largest images.
+There are countless versions of these notebooks out there. The point of these notebooks is a user-friendly and quick-to-run UI. Some additional basic features have also been added to some notebooks, such as saving all/selected progression images and progression video, batch processing, etc. All notebooks produce very different results.
 
 I do not use all of these notebooks on a regular basis, so please do raise an issue should any problems occur.
 
