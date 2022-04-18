@@ -6,7 +6,7 @@ Big Sleep is originally a concept of turning text into imagery by using [CLIP](h
 
 There are countless versions of these notebooks out there. The point of these notebooks is a user-friendly and quick-to-run UI. Some additional basic features have also been added to some notebooks, such as saving all/selected progression images and progression video, batch processing, etc. All notebooks produce very different results.
 
-I do not use all of these notebooks on a regular basis, so please do raise an issue should any problems occur.
+I do not use all of these notebooks on a regular basis, and hence I'm mostly unaware when some library gets updated and notebook may no longer function; Please do raise an issue should any problems occur.
 
 ---
 
