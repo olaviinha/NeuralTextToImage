@@ -54,8 +54,6 @@ Method originally by [Katherine Crowson](https://github.com/crowsonkb)<br>
 **Colab for:** Latent Vision by [Ryan Murdock](https://github.com/rynmurdock)<br>
 **Papers:** 1) [VQGAN by Patrick Esser et al](https://arxiv.org/abs/2012.09841), 2) [CLIP by OpenAI](https://arxiv.org/abs/2103.00020)
 
-Results of this notebook are pretty much something between the original Big Sleep (below) and CLIP+VQGAN (above).
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/LatentVision_rynmurdock.ipynb)
 
 ![image](https://user-images.githubusercontent.com/50331907/126967558-b68857b7-0792-4135-b535-687539a3d240.png)<br>
@@ -66,7 +64,7 @@ Results of this notebook are pretty much something between the original Big Slee
 **Colab for:** [Big Sleep (CLIP+BigGAN)](https://github.com/lucidrains/big-sleep) by [Phil Wang](https://github.com/lucidrains) (more precisely [this fork](https://github.com/olaviinha/big-sleep))<br>
 **Papers:** 1) [BigGAN by Andrew Brock et al](https://arxiv.org/abs/1809.11096), 2) [CLIP by OpenAI](https://arxiv.org/abs/2103.00020)
 
-This notebook follows the original Big Sleep technique.
+Original Big Sleep method.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/BigSleep_lucidrains.ipynb)
 
