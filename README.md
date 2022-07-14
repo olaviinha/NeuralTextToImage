@@ -10,6 +10,16 @@ I do not use all of these notebooks on a regular basis, and hence I'm mostly una
 
 ---
 
+**Colab for:** DALL·E Mini by [Boris Dayma](https://github.com/borisdayma)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/dalle_mini.ipynb)
+
+![image](https://user-images.githubusercontent.com/50331907/179073528-935fe0d2-363e-438b-9706-3e4548dd7569.png)
+
+_"Satanism in the 1900s"_
+
+---
+
 **Colab for:** Latent Diffusion LAION 400M
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/LAION_400M.ipynb)
