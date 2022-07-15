@@ -12,6 +12,8 @@ I do not use all of these notebooks on a regular basis, and hence I'm mostly una
 
 **Colab for:** DALL·E Mini by [Boris Dayma](https://github.com/borisdayma)
 
+This colab requires registering with [wandb](https://wandb.ai/) for an authentication key to download required models.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/dalle_mini.ipynb)
 
 ![image](https://user-images.githubusercontent.com/50331907/179073528-935fe0d2-363e-438b-9706-3e4548dd7569.png)
