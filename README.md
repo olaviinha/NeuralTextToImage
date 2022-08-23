@@ -1,6 +1,19 @@
-# Neural text-to-image (Big Sleep etc.)
+# Neural text-to-image Colab notebooks
 
-User-friendly Colab notebooks for Big Sleep, its siblings and offsprings.
+User-friendly Colab notebooks for various text-to-image methods.
+
+**Available notebooks:**
+
+- [Stable Diffusion](#stable-diffusion-by-compvis-stability-ai-and-laion)
+- [DALL·E Mini (craiyon.ai)](#dalle-mini-craiyonai-by-boris-dayma)
+- [Latent Diffusion LAION 400M](#latent-diffusion-laion-400m-by-compvis)
+- [ruDALLE Malevich](#rudalle-malevich-by-sberbank-ai)
+- [JAX CLIP Guided Diffusion](#jax-clip-guided-diffusion-by-nshepperd)
+- [CLIP+VQGAN](#clipvqgan-by-katherine-crowson)
+- [Latent Vision](#latent-vision-by-ryan-murdock)
+- [Big Sleep](#big-sleep-by-phil-wang-more-precisely-this-fork)
+
+---
 
 Big Sleep is originally a concept of turning text into imagery by using [CLIP](https://github.com/openai/CLIP) (OpenAI) to steer [BigGAN](https://arxiv.org/abs/1809.11096) (Andrew Brock et al.), as introduced by [Ryan Murdock](https://github.com/rynmurdock) in his [original notebook](https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing). The technique has since branched and evolved.
 
@@ -10,7 +23,15 @@ I do not use all of these notebooks on a regular basis, and hence I'm mostly una
 
 ---
 
-**Colab for:** DALL·E Mini by [Boris Dayma](https://github.com/borisdayma)
+## Stable Diffusion by [CompVis](https://github.com/CompVis), [Stability AI](https://stability.ai) and [LAION](https://laion.ai)
+
+This colab requires registering with [Hugging Face](https://huggingface.co) for login token and [accepting model card terms](https://huggingface.co/CompVis/stable-diffusion-v1-4) to download required models.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/Stable_Diffusion.ipynb)
+
+---
+
+## DALL·E Mini (craiyon.ai) by [Boris Dayma](https://github.com/borisdayma)
 
 This colab requires registering with [wandb](https://wandb.ai/) for an authentication key to download required models.
 
@@ -22,7 +43,7 @@ _"Satanism in the 1900s"_
 
 ---
 
-**Colab for:** Latent Diffusion LAION 400M
+## Latent Diffusion LAION 400M by [CompVis](https://github.com/CompVis)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/LAION_400M.ipynb)
 
@@ -32,7 +53,7 @@ _"Satanism in the 1900s"_ (upscaled)
 
 ---
 
-**Colab for:** ruDALLE by [Sberbank-AI](https://github.com/sberbank-ai)
+## ruDALLE Malevich by [Sberbank-AI](https://github.com/sberbank-ai)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/ruDalle.ipynb)
 
@@ -42,7 +63,7 @@ _"Satanism in the 1900s"_
 
 ---
 
-**Colab for:** JAX CLIP Guided Diffusion by [nshepperd](https://github.com/nshepperd)<br>
+## JAX CLIP Guided Diffusion by [nshepperd](https://github.com/nshepperd)<br>
 Method originally by [Katherine Crowson](https://github.com/crowsonkb)<br>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/JAX_CLIP_Guided_diffusion_nshepperd.ipynb)
@@ -53,7 +74,7 @@ Method originally by [Katherine Crowson](https://github.com/crowsonkb)<br>
 
 ---
 
-**Colab for:** CLIP+VQGAN by [Katherine Crowson](https://github.com/crowsonkb)<br>
+## CLIP+VQGAN by [Katherine Crowson](https://github.com/crowsonkb)<br>
 **Papers:** 1) [VQGAN by Patrick Esser et al](https://arxiv.org/abs/2012.09841), 2) [CLIP by OpenAI](https://arxiv.org/abs/2103.00020)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/CLIP%2BVQGAN_crowsonkb.ipynb)
@@ -63,7 +84,7 @@ Method originally by [Katherine Crowson](https://github.com/crowsonkb)<br>
 
 ---
 
-**Colab for:** Latent Vision by [Ryan Murdock](https://github.com/rynmurdock)<br>
+## Latent Vision by [Ryan Murdock](https://github.com/rynmurdock)<br>
 **Papers:** 1) [VQGAN by Patrick Esser et al](https://arxiv.org/abs/2012.09841), 2) [CLIP by OpenAI](https://arxiv.org/abs/2103.00020)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/LatentVision_rynmurdock.ipynb)
@@ -73,7 +94,7 @@ Method originally by [Katherine Crowson](https://github.com/crowsonkb)<br>
 
 ---
 
-**Colab for:** [Big Sleep (CLIP+BigGAN)](https://github.com/lucidrains/big-sleep) by [Phil Wang](https://github.com/lucidrains) (more precisely [this fork](https://github.com/olaviinha/big-sleep))<br>
+## Big Sleep by [Phil Wang](https://github.com/lucidrains) (more precisely [this fork](https://github.com/olaviinha/big-sleep))<br>
 **Papers:** 1) [BigGAN by Andrew Brock et al](https://arxiv.org/abs/1809.11096), 2) [CLIP by OpenAI](https://arxiv.org/abs/2103.00020)
 
 Original Big Sleep method.
