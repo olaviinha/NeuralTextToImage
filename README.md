@@ -15,7 +15,7 @@ User-friendly Colab notebooks for various text-to-image methods.
 
 ---
 
-These techniques are more or less descendants of Big Sleep, the original concept of turning text into imagery by using [CLIP](https://github.com/openai/CLIP) (OpenAI) to steer [BigGAN](https://arxiv.org/abs/1809.11096) (Andrew Brock et al.), as introduced by [Ryan Murdock](https://github.com/rynmurdock) in his [original notebook](https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing). The technique has since branched and evolved.
+These techniques are all more or less descendants of Big Sleep, the original concept of turning text into imagery by using [CLIP](https://github.com/openai/CLIP) (OpenAI) to steer [BigGAN](https://arxiv.org/abs/1809.11096) (Andrew Brock et al.), as introduced by [Ryan Murdock](https://github.com/rynmurdock) in his [original notebook](https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing). The technique has since branched and evolved.
 
 There are countless versions of these notebooks out there. The point of this set of notebooks is a user-friendly and quick-to-run UI. Some additional basic features have also been added to some of the notebooks, such as saving all/selected progression images, saving progression video, batch processing, etc. 
 
