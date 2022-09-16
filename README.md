@@ -2,7 +2,7 @@
 
 User-friendly Colab notebooks for various text-to-image methods.
 
-**Available notebooks:**
+**Available notebooks (latest to oldest):**
 
 - [Stable Diffusion](#stable-diffusion-by-compvis-stability-ai-and-laion)
 - [DALL·E Mini (craiyon.ai)](#dalle-mini-craiyonai-by-boris-dayma)
