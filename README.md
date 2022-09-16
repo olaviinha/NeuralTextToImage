@@ -1,6 +1,6 @@
 # Neural text-to-image Colab notebooks
 
-User-friendly Colab notebooks for various text-to-image methods.
+User-friendly Colab notebooks for various text prompt steered AI image generators.
 
 **Available notebooks (latest to oldest):**
 
