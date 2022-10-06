@@ -1,6 +1,6 @@
-# Neural text-to-image Colab notebooks
+# Synthetic media generator Colab notebooks
 
-User-friendly Colab notebooks for various text prompt steered AI image generators.
+User-friendly Colab notebooks for various text prompt steered synthetic image generators.
 
 **Available notebooks (latest to oldest):**
 
