@@ -25,9 +25,13 @@ I do not use these notebooks on a regular basis, and hence I'm mostly unaware wh
 
 ## Stable Diffusion by [CompVis](https://github.com/CompVis), [Stability AI](https://stability.ai) and [LAION](https://laion.ai)
 
-This colab requires registering with [Hugging Face](https://huggingface.co) for login token and [accepting model card terms](https://huggingface.co/CompVis/stable-diffusion-v1-4) to download required models.
+This colab requires registering with [Hugging Face](https://huggingface.co) for login token and accepting model card terms to download required models [here](https://huggingface.co/CompVis/stable-diffusion-v1-4) and [here](https://huggingface.co/runwayml/stable-diffusion-v1-5).
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/Stable_Diffusion.ipynb)
+
+To train your custom Stable Diffusion model and/or use the web UI, use the Fast Dream Booth notebook (cleaned up version of [Fast Stable Diffusion](https://github.com/TheLastBen/fast-stable-diffusion) using [DreamBooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) and [web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)):
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/Fast_Dream_Booth.ipynb)
 
 ![image](https://user-images.githubusercontent.com/50331907/186525426-33e89d0a-e5f1-4f7f-b347-64e3aec567ab.png)
 
