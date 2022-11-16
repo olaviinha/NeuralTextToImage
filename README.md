@@ -29,10 +29,6 @@ This colab requires registering with [Hugging Face](https://huggingface.co) for 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/Stable_Diffusion.ipynb)
 
-To train your custom Stable Diffusion model and/or use the web UI, use the Fast Dream Booth notebook (cleaned up version of [Fast Stable Diffusion](https://github.com/TheLastBen/fast-stable-diffusion) using [DreamBooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) and [web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)):
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToImage/blob/main/Fast_Dream_Booth.ipynb)
-
 ![image](https://user-images.githubusercontent.com/50331907/186525426-33e89d0a-e5f1-4f7f-b347-64e3aec567ab.png)
 
 _"Satanism in the 1900s"_
