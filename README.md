@@ -4,7 +4,7 @@ User-friendly Colab notebooks for various text prompt steered synthetic image ge
 
 **Available notebooks (latest to oldest):**
 
-- [Stable Diffusion](#stable-diffusion-by-compvis-stability-ai-and-laion)
+- [Stable Diffusion](#stable-diffusion-by-compvis-stability-ai-and-laion) (v1.4, v1.5, waifu diffusion)
 - [DALL·E Mini (craiyon.ai)](#dalle-mini-craiyonai-by-boris-dayma)
 - [Latent Diffusion LAION 400M](#latent-diffusion-laion-400m-by-compvis)
 - [ruDALLE Malevich](#rudalle-malevich-by-sberbank-ai)
