@@ -1,4 +1,4 @@
-# Colab notebooks for synthetic media generators
+# Colab notebooks for text-to-image generators
 
 User-friendly Colab notebooks for various text prompt steered synthetic image generators.
 
