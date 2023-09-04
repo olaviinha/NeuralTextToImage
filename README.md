@@ -1,6 +1,6 @@
 # Colab notebooks for text-to-image generators
 
-User-friendly Colab notebooks for various text prompt steered synthetic image generators.
+User-friendly Colab notebooks for various text prompt steered synthetic image generators. These notebooks are not actively maintained, though issues and pull requests are welcome.
 
 **Available notebooks (latest to oldest):**
 
