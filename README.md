@@ -1,6 +1,6 @@
 # Colab notebooks for text-to-image generators
 
-**This repository is not maintained since 2022.**
+**❗️ This repository is not maintained since 2022, as state-of-the-art text-to-image solutions are now widely available for everyone.**
 
 User-friendly Colab notebooks for various text prompt steered synthetic image generators. These notebooks are not actively maintained, though issues and pull requests are welcome.
 
