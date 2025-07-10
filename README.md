@@ -19,8 +19,6 @@ User-friendly Colab notebooks for various text prompt steered synthetic image ge
 
 These techniques are all more or less descendants of Big Sleep (2021), the original concept of turning text into imagery by using [CLIP](https://github.com/openai/CLIP) (OpenAI) to steer [BigGAN](https://arxiv.org/abs/1809.11096) (Andrew Brock et al.), as introduced by [Ryan Murdock](https://github.com/rynmurdock) in his [original notebook](https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing). The technique has since branched and evolved into what we now know as Midjourney, Dall-E, Stable Diffusion, etc.
 
-The point of this repository is to record the development history of image-generation AIs, and as long as they work, user-friendly and quick-to-run UIs for the different implementations. Some additional basic features have been added to some of the notebooks, such as saving all/selected progression images, saving progression video, batch processing, etc.
-
 I do not use these notebooks on a regular basis, and hence I'm mostly unaware when some library gets updated and a notebook may no longer function; Please do raise an issue should any problems occur.
 
 ---
